@@ -1,0 +1,70 @@
+body {
+    background-image: url('../assets/backgroud.jpg'); /* Substitua pelo caminho da sua imagem */
+    background-size: cover; 
+    background-position: center; 
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow-y: auto;
+    min-height: 100vh;
+  }
+  .titleForm{
+    margin-top: 0;
+    color: #0159e5;
+  }  
+  form {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    padding: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);
+    width: 600px;
+    max-width: 800px; /* Largura adequada para o formulário */
+    margin: 1rem auto;
+  }
+  
+  label {
+    margin-bottom: 1rem;
+  }
+  
+  label span { /* Estilo para o texto do label */
+    color: #555;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+  
+  input[type="text"],
+  input[type="number"],
+  textarea,
+  select {
+    padding: 0.8rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+    color: #333;
+  }
+  
+  textarea {
+    min-height: 50px; /* Altura mínima para o textarea */
+  }
+  
+  button[type="submit"] {
+    background-color: #4285f4; /* Cor azul para o botão */
+    color: #fff;
+    border: none;
+    padding: 1rem 1.5rem;
+    border-radius: 5px;
+    font-size: 1.1rem;
+    max-width: 200px;
+    margin: 0.5rem auto;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Efeito de transição suave */
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #3367d6; /* Cor azul mais escura ao passar o mouse */
+  }
