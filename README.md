@@ -4,7 +4,7 @@ Este projeto foi desenvolvido praticamente todo utilizado o Gemini para construi
 
 ![image](https://github.com/giuanm/ajud_ai/assets/76171709/2606728d-b82f-4e39-9302-fe8a5b19e100)
 
-https://youtu.be/qjRr9kq3fqE
+[https://youtu.be/qjRr9kq3fqE](https://youtu.be/Jw5nNsKw2fg)
 
 ## Technology 
 
