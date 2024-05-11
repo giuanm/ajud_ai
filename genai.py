@@ -15,7 +15,7 @@ client = MongoClient('mongodb://localhost:27017/')  # Conecte ao servidor MongoD
 db = client['gemini_db']  # Selecione o banco de dados
 collection = db['respostas']  # Selecione a coleção
 
-genai.configure(api_key='AIzaSyDx-ef08Pa6IyLvSHEPhg5jRCaoD4tXhCw') # Substitua pela sua chave de API
+genai.configure(api_key='API_KEY') # Substitua pela sua chave de API
 model = genai.GenerativeModel('models/gemini-1.5-pro-latest')
 app = Flask(__name__)
 
