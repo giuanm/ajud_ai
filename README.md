@@ -1,8 +1,64 @@
-# React + Vite
+## AjudAI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto foi desenvolvido praticamente todo utilizado o Gemini para construir o código. Feito em React, Python e como banco de dados utilizei o MongoDB. A consulta é feita por uma API Gemini.
 
-Currently, two official plugins are available:
+![image](https://github.com/giuanm/ajud_ai/assets/76171709/2606728d-b82f-4e39-9302-fe8a5b19e100)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://youtu.be/qjRr9kq3fqE
+
+## Technology 
+
+Aqui estão algumas das tecnologias utilizadas no projeto.
+
+* Gemini
+* React
+* Python
+* MongoDb
+* HTML5
+* CSS3
+
+## Services Used
+
+* Github
+
+## Skills
+* AI
+* Responsive design
+* API
+* Fetch
+* Promise
+* DOM manipulation
+* Functions
+* Event Listener
+* Deploy
+
+## Como utilizar:
+
+	Você precisa primeiro clonar o repositório, depois seguir os passos abaixo:
+
+1 - Create an API key do Gemini e substituir no arquivo genai.py sua chave ativada; 
+2 - Ter o mongoDB ativado na porta 27017; 
+3 - Depois de rodar o genai.py com conexão do mongoDB, você pode executar o front end no react.
+4 - Enjoy!! 🚀😊🎉 
+
+
+## Features
+  - Receber dicas personalizadas sobre o seu momento profissional e como atingir seus objetivos
+
+## Links
+  - Repository: https://github.com/giuanm/ajud_ai
+    - In case of sensitive bugs like security vulnerabilities, please contact
+      giuanm@live.com directly instead of using issue tracker. 
+      I value your effort to improve the security and privacy of this project!
+
+  ## Versioning
+
+  1.0.0.0
+
+
+  ## Authors
+  
+  * **Giuan Ferreira**: @giuanm (https://github.com/giuanm)
+
+  Please follow github and join us!
+  Thanks to visiting me and good coding!
