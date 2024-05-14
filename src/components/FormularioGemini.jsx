@@ -31,7 +31,6 @@ function FormularioGemini() {
       fetch(`http://127.0.0.1:5000/dados_gemini?endpoint=${endpoint}`)
         .then(response => response.json())
         .then(data => {
-          console.log(data);
           setDataReady(true);
           navigate('/response');
         })
@@ -50,7 +49,7 @@ function FormularioGemini() {
           <Loading />
         ) : (
           <form onSubmit={handleSubmit}>
-            <h1 className='titleForm'>💡 AjudAI 🚀</h1>
+            <h1 className='titleForm'>💡 MentorIA 🚀</h1>
             Momento de Carreira:
             <select value={momento} onChange={(e) => setMomento(e.target.value)}>
               <option value=""></option>
