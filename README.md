@@ -2,7 +2,8 @@
 
 This project was developed almost entirely using Gemini to build the code. It's made with React, Python, and MongoDB as the database. The queries are made through a Gemini API.
 
-![image](https://github.com/giuanm/ajud_ai/assets/76171709/2606728d-b82f-4e39-9302-fe8a5b19e100)
+![image](https://github.com/giuanm/mentoria/assets/76171709/14b6dae1-0677-41ed-9ec9-3f483e2683cb)
+
 
 [https://youtu.be/qjRr9kq3fqE](https://youtu.be/Jw5nNsKw2fg)
 
