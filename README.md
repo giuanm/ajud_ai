@@ -1,6 +1,6 @@
-## AjudAI
+## MentorIA
 
-Este projeto foi desenvolvido praticamente todo utilizado o Gemini para construir o código. Feito em React, Python e como banco de dados utilizei o MongoDB. A consulta é feita por uma API Gemini.
+This project was developed almost entirely using Gemini to build the code. It's made with React, Python, and MongoDB as the database. The queries are made through a Gemini API.
 
 ![image](https://github.com/giuanm/ajud_ai/assets/76171709/2606728d-b82f-4e39-9302-fe8a5b19e100)
 
@@ -8,12 +8,13 @@ Este projeto foi desenvolvido praticamente todo utilizado o Gemini para construi
 
 ## Technology 
 
-Aqui estão algumas das tecnologias utilizadas no projeto.
+Here are some of the technologies used in the project:
 
 * Gemini
+* LLM
 * React
 * Python
-* MongoDb
+* MongoDB
 * HTML5
 * CSS3
 
@@ -25,6 +26,7 @@ Aqui estão algumas das tecnologias utilizadas no projeto.
 * AI
 * Responsive design
 * API
+* LLM
 * Fetch
 * Promise
 * DOM manipulation
@@ -32,21 +34,21 @@ Aqui estão algumas das tecnologias utilizadas no projeto.
 * Event Listener
 * Deploy
 
-## Como utilizar:
+## How to use:
 
-	Você precisa primeiro clonar o repositório, depois seguir os passos abaixo:
+You need to first clone the repository, then follow the steps below:
 
-1 - Create an API key do Gemini e substituir no arquivo genai.py sua chave ativada; 
-2 - Ter o mongoDB ativado na porta 27017; 
-3 - Depois de rodar o genai.py com conexão do mongoDB, você pode executar o front end no react.
+1 - Create a Gemini API key and replace it in the genai.py file with your activated key;
+2 - Have MongoDB running on port 27017;
+3 - After running genai.py with MongoDB connection, you can run the frontend on React.
 4 - Enjoy!! 🚀😊🎉 
 
 
 ## Features
-  - Receber dicas personalizadas sobre o seu momento profissional e como atingir seus objetivos
+  - Receive personalized tips about your professional journey and how to achieve your goals
 
 ## Links
-  - Repository: https://github.com/giuanm/ajud_ai
+  - Repository: https://github.com/giuanm/mentoria
     - In case of sensitive bugs like security vulnerabilities, please contact
       giuanm@live.com directly instead of using issue tracker. 
       I value your effort to improve the security and privacy of this project!
