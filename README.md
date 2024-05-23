@@ -2,6 +2,10 @@
 
 This project was developed almost entirely using Gemini to build the code. It's made with React, Python, and MongoDB as the database. The queries are made through a Gemini API.
 
+# Note: 
+This project did not aim to create a program in the software architecture model, for example, following the MVC model in the backend. The objective is just to build a simple program created by Gemini using prompt 
+engineering.
+
 ![image](https://github.com/giuanm/mentoria/assets/76171709/14b6dae1-0677-41ed-9ec9-3f483e2683cb)
 
 
